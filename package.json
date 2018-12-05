@@ -1,0 +1,16 @@
+{
+  "name": "angular-pivot-table",
+  "version": "1.0.0",
+  "description": "angular pivot table",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Leung",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/core": "^7.1.1",
+    "@types/underscore": "^1.8.9",
+    "underscore": "^1.9.1"
+  }
+}
